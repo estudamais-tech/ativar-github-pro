@@ -20,18 +20,19 @@
 ### 1. Acessar o GitHub Student Developer Pack
 
 * Abrir navegador e acessar a página: education.github.com/pack.
-* Clicar em **"Sign up for Student Developer Pack"** ou **"Get student benefits"** ([GitHub Education][1], [Dreamy Girl Blog][2].
-* Fazer login com a conta do GitHub (ou criar, se necessário).
+* Clicar em **"Sign up for Student Developer Pack"** ou **"Get student benefits"** ([GitHub Education][1].
+* Fazer login com a conta do GitHub.
 
 ### 2. Preencher o formulário de estudante
 
 * Escolher “Student”.
-* Adicionar e-mail institucional ou pessoal.
+* Adicionar e-mail institucional.
 * Informar nome da instituição de ensino.
 
-### 3. Enviar comprovante de matrícula ou carteirinha
+### 3. Enviar carteirinha
 
-* Upload de foto da carteirinha ou declaração de matrícula (APP da Estácio).
+* Usar a webcam para comprovar vinculo.
+* Use o app da Estácio (Perfil > Carteirinha de Estudante).
 * Deve usar webcam.
 
 ### 4. Aguardar aprovação
@@ -68,7 +69,7 @@
 
 [Como se aplicar ao Github Student - YouTube (português)](https://www.youtube.com/watch?v=aNwlZmrtUkw)
 
-Esse tutorial explica o passo a passo da inscrição no GitHub Student Developer Pack, incluindo onde clicar e o que preencher ([GitHub Docs][6]).
+Esse tutorial explica o passo a passo da inscrição no GitHub Student Developer Pack, incluindo onde clicar e o que preencher ([GitHub Docs][4]).
 
 ---
 
