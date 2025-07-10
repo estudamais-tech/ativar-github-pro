@@ -49,7 +49,7 @@
 ### 6. Ativar GitHub Pro / Copilot Pro
 
 * No GitHub, ir em *Settings > Billing & plans* e confirmar GitHub Pro gratuito.
-* Para GitHub Copilot (caso incluído), acessar configurações em *Settings > Code & automation > Copilot* e habilitar ([GitHub Education][1]).
+* Para GitHub Copilot, acessar configurações em *Settings > Code & automation > Copilot* e habilitar ([GitHub Education][1]).
 
 ---
 
