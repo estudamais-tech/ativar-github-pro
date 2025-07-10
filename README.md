@@ -5,7 +5,7 @@
    * Caso o usuário ainda não tenha, inclua botão/link "Não tem conta no GitHub? Clique aqui" que direcione para criação de conta oficial do GitHub.
 
 2. **App Estácio Mobile instalado**
-
+   * Usuário deve estar regularmente matriculado na Estácio.
    * Incluir links: App Store / Play Store.
 
 3. **Usuário logado no app**
