@@ -27,7 +27,7 @@
 
 * Escolher “Student”.
 * Adicionar e-mail institucional.
-* Informar nome da instituição de ensino.
+* Informar nome da instituição de ensino. (ex.: ESTÁCIO)
 
 ### 3. Enviar carteirinha
 
