@@ -12,6 +12,9 @@
 
    * Caminho: Perfil > Acessar Carteirinha
    * Verificar se a carteirinha aparece. Se sim, seguir adiante; se não, checar cadastro institucional.
+  
+> [!TIP]
+> Caso precise de apoio adicional, confira o tutorial com imagens em https://github.com/estudamais-tech/ativar-github-pro/blob/main/Passo%20a%20Passo%20GHSDP.pdf.
 
 ---
 
